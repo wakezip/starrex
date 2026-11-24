@@ -13,11 +13,14 @@ También funciona en un cartucho flash tipo FXPAK / EverDrive.
 | Botón | Acción |
 |---|---|
 | Cruceta | Mueve la mira (la nave la sigue) |
-| B / Y | Disparar (mantén para cargar) |
-| A | Turbo |
-| SELECT | Bomba |
+| A | Disparar (mantén para el disparo cargado) |
+| B | Turbo (mantén para acelerar) |
+| Y | Frenar |
+| X | Giro en U (X + abajo: rizo) |
+| L o R (mantener) | Viraje cerrado |
 | L + R | Pedir ayuda a la escuadrilla |
-| START | Pausa |
+| SELECT | Bomba |
+| START | Empezar / pausa |
 
 ## Versión
 v0.32 · md5 `75543e0c1e7948810174f54e4bd3c5ff` · 512 KB · LoROM
